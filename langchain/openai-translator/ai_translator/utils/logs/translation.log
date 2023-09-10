@@ -1,0 +1,8 @@
+2023-09-10 19:29:04.707 | DEBUG    | __main__:<module>:29 - This is a debug message.
+2023-09-10 19:29:04.707 | INFO     | __main__:<module>:30 - This is an info message.
+2023-09-10 19:29:04.707 | WARNING  | __main__:<module>:31 - This is a warning message.
+2023-09-10 19:29:04.707 | ERROR    | __main__:<module>:32 - This is an error message.
+2023-09-10 19:32:54.000 | DEBUG    | __main__:<module>:29 - This is a debug message.
+2023-09-10 19:32:54.001 | INFO     | __main__:<module>:30 - This is an info message.
+2023-09-10 19:32:54.001 | WARNING  | __main__:<module>:31 - This is a warning message.
+2023-09-10 19:32:54.001 | ERROR    | __main__:<module>:32 - This is an error message.
